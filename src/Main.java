@@ -1,8 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        Match test1 = new Match(10,10);
-        for(int i:test1.simulateBattle()){
-            System.out.println(i);
-        }
+        Simulation simulation = new Simulation(1000); // Number of simulations
+        simulation.simulate(2, 5);
+        simulation.printInfo();
     }
 }
