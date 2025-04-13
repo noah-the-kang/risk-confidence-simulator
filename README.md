@@ -1,0 +1,1 @@
+This is meant to run many many simulations of a battle in Hasbro's Risk boardgame to give a basic prediction of likely outcomes. The logic of each battle is meant to capture the rules based on [**this version of Risk**](https://instructions.hasbro.com/api/download/B7404_en-us_Risk-Game.pdf).
